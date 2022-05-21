@@ -2,9 +2,6 @@
 // Compilation of this file
 // gcc -D_REENTRANT -o msgqsrv Server.c -lrt -lpthread
 
-//Name: Mohd. Rizwan Shaikh
-//Roll no. IMT2019513
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
