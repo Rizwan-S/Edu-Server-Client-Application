@@ -2,9 +2,6 @@
 // Compilation of this file
 // gcc -o msgqclt Client.c -lrt
 
-//Name: Mohd. Rizwan Shaikh
-//Roll no. IMT2019513
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
